@@ -2,7 +2,7 @@
 
 Natter is a voice journal that runs entirely on your phone. You talk about your day, a small toad asks a few short questions, and the entry is written in your own words. Behind it, a notebook of the people, places and stories in your life builds itself. Nothing leaves the phone: no account, no cloud, and it works in airplane mode once the models are downloaded.
 
-This page holds the Android builds. The source is private for now.
+This page holds the Android builds. The source is not published.
 
 ## Install
 
